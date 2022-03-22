@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15",
+    "slackbots": "^1.2.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module"
+}
